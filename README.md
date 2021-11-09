@@ -7,5 +7,4 @@ disambungkan ke database MySQL, adapun aplikasinya memiliki 3 class:
 - class koneksi: class yang akan menghubungkan Java dengan MySQL
 - class report: data-data yang tersimpan bisa diprint kedalam bentuk pdf.
 
-Aplikasi ini merupakan tugas akhir yang saya jalankan pada program KMMI oleh Kampus Merdeka, pada course KMMI - Pemrograman Java yang dijalankan
-oleh Universitas Budi Luhur
+-> tugas akhir program KMMI
